@@ -1,2 +1,2 @@
-# files froms vscode directory are ignored
+# files froms .vscode directory are ignored
 *.json
