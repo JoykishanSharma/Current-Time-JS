@@ -1,5 +1,5 @@
 #vscode directory ignored
-.vscode/
+\.vscode/
 
 # files froms vscode directory are ignored
-.vscode/settings.json
+\.vscode/settings.json
